@@ -1,16 +1,45 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**Lavkush-2005/Lavkush-2005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there, I'm Lavkush! 👋
 
-Here are some ideas to get you started:
+![Profile Views](https://komarev.com/ghpvc/?username=Lavkush-2005&color=blueviolet&style=flat)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## 🚀 About Me
+
+I'm a **Data Analyst** based in Dehradun, India, working with Python, SQL, Power BI, and Excel to turn raw, messy data into insights businesses can actually act on. I've built end-to-end projects across retail, e-commerce, supply chain, and hospitality — from cleaning and modeling data, to writing SQL queries that answer real business questions, to designing dashboards that stakeholders use to make decisions. I enjoy the full journey of a dataset: from raw rows to a story that makes sense to someone who isn't a data person.
+
+## 🎯 My Interests
+
+- **Business Analytics:** Solving real-world problems using SQL, Python, and dashboards
+- **Data Visualization:** Building dashboards in Power BI that people actually use, not just look at
+- **Customer & Retail Analytics:** Understanding buying behavior, segmentation, and retention
+- **Automation:** Using tools like Selenium to eliminate repetitive manual data collection
+
+## 🛠️ Technical Skills
+
+- **Languages & Query:** Python (pandas, NumPy), SQL (PostgreSQL)
+- **BI & Visualization:** Power BI, Excel (Pivot Tables, Lookup Functions, Dashboards)
+- **Other Tools:** Selenium (Web Scraping), Jupyter Notebook · Git/GitHub
+
+## 📌 Featured Projects
+
+| Project | Description |
+|---|---|
+| [Customer Behavior & Segmentation Analysis](https://github.com/Lavkush-2005/customer-behavior_segmentation-analysis) | End-to-end analysis of 3,900+ customer records — Python cleaning, SQL analysis, Power BI dashboard |
+| [Supply Chain Analytics Dashboard](https://github.com/Lavkush-2005/supply-chain-analytics-dashboard-powerbi) | Power BI dashboard covering supplier performance, inventory, shipments, and revenue |
+| [Hotel Booking Analysis](https://github.com/Lavkush-2005/hotel-booking-analysis) | Identified key drivers of booking cancellations and seasonal trends |
+| [Zepto Sales Data Analysis](https://github.com/Lavkush-2005/zepto-data-analysis) | SQL-driven analysis of quick-commerce sales data |
+| [Iris Flower Classification (ML)](https://github.com/Lavkush-2005/iris_flower_classification_machine_learning) | Species classification using Python and Scikit-learn |
+| [Corporate Network Design](https://github.com/Lavkush-2005/Corporate-network-design_Cisco-Packet-Tracer) | Multi-department LAN topology design in Cisco Packet Tracer |
+
+## 📫 How to Reach Me
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-lavkush2005kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white)
+
+<div align="center">
+
+⭐️ Feel free to explore my repositories — feedback and suggestions are always welcome!
+
+</div>
