@@ -8,8 +8,8 @@
 
 ## 🚀 About Me
 
-I'm a **Data Analyst** based in Dehradun, India, working with Python, SQL, Power BI, and Excel to turn raw, messy data into insights businesses can actually act on. I've built end-to-end projects across retail, e-commerce, supply chain, and hospitality — from cleaning and modeling data, to writing SQL queries that answer real business questions, to designing dashboards that stakeholders use to make decisions. I enjoy the full journey of a dataset: from raw rows to a story that makes sense to someone who isn't a data person.
-
+I turn messy spreadsheets and disconnected tables into dashboards people actually trust and use. Based in Dehradun, I work in Python, SQL, Power BI, and Excel — writing queries that answer the question behind the question, and building models that hold up under scrutiny.
+I've shipped projects across retail, e-commerce, supply chain, and hospitality: tracing a 129K-order supply chain back to its bottlenecks, surfacing a 72% non-subscriber gap hiding in repeat buyers, cutting reporting turnaround by 30% through automation. My favorite part of the job isn't the chart — it's the moment someone who's never touched a query says, "oh, that's why."
 ## 🎯 My Interests
 
 - **Business Analytics:** Solving real-world problems using SQL, Python, and dashboards
