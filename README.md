@@ -9,7 +9,8 @@
 ## 🚀 About Me
 
 I turn messy spreadsheets and disconnected tables into dashboards people actually trust and use. Based in Dehradun, I work in Python, SQL, Power BI, and Excel — writing queries that answer the question behind the question, and building models that hold up under scrutiny.
-I've shipped projects across retail, e-commerce, supply chain, and hospitality: tracing a 129K-order supply chain back to its bottlenecks, surfacing a 72% non-subscriber gap hiding in repeat buyers, cutting reporting turnaround by 30% through automation. My favorite part of the job isn't the chart — it's the moment someone who's never touched a query says, "oh, that's why."
+
+I've shipped projects across **retail, e-commerce, supply chain, and hospitality:** tracing a **129K-order supply chain back to its bottlenecks,** surfacing a **72% non-subscriber gap hiding in repeat buyers,** cutting reporting turnaround by 30% through automation. My favorite part of the job isn't the chart, it's the moment someone who's never touched a query says, "oh, that's why."
 ## 🎯 My Interests
 
 - **Business Analytics:** Solving real-world problems using SQL, Python, and dashboards
