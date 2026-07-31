@@ -6,22 +6,23 @@
 
 </div>
 
-## 🚀 About Me
+## What I Do
 
 I turn messy spreadsheets and disconnected tables into dashboards people actually trust and use. Based in Dehradun, I work in Python, SQL, Power BI, and Excel — writing queries that answer the question behind the question, and building models that hold up under scrutiny.
 
-I've shipped projects across **retail, e-commerce, supply chain, and hospitality:** tracing a **129K-order supply chain back to its bottlenecks,** surfacing a **72% non-subscriber gap hiding in repeat buyers,** cutting reporting turnaround by 30% through automation. My favorite part of the job isn't the chart, it's the moment someone who's never touched a query says, "oh, that's why."
-## 🎯 My Interests
+I've shipped projects across **retail, e-commerce, supply chain, and hotel bookings analysis:** tracing a **129K-order supply chain back to its bottlenecks,** surfacing a **72% non-subscriber gap hiding in repeat buyers,** cutting reporting turnaround by 30% through automation. My favorite part of the job isn't the chart, it's the moment someone who's never touched a query says, "oh, that's why."
 
+- **Focus:** Churn prediction, customer analytics, storytelling with data
+- **Learning:** Advanced SQL, Machine Learning, Business Analytics
 - **Business Analytics:** Solving real-world problems using SQL, Python, and dashboards
 - **Data Visualization:** Building dashboards in Power BI that people actually use, not just look at
 - **Customer & Retail Analytics:** Understanding buying behavior, segmentation, and retention
 - **Automation:** Using tools like Selenium to eliminate repetitive manual data collection
 
-## 🛠️ Technical Skills
+## 🛠️ Technical Expertise
 
 - **Languages & Query:** Python (pandas, NumPy), SQL (PostgreSQL)
-- **BI & Visualization:** Power BI, Excel (Pivot Tables, Lookup Functions, Dashboards)
+- **BI & Visualization:** Power BI, Excel (Pivot Tables, Lookup Functions, Dashboards, DAX)
 - **Other Tools:** Selenium (Web Scraping), Jupyter Notebook · Git/GitHub
 
 ## 📌 Featured Projects
