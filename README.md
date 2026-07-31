@@ -36,12 +36,11 @@ I've shipped projects across **retail, e-commerce, supply chain, and hotel booki
 | [Iris Flower Classification (ML)](https://github.com/Lavkush-2005/iris_flower_classification_machine_learning) | Species classification using Python and Scikit-learn |
 | [Corporate Network Design](https://github.com/Lavkush-2005/Corporate-network-design_Cisco-Packet-Tracer) | Multi-department LAN topology design in Cisco Packet Tracer |
 
-## 📫 How to Reach Me
+## 📫 Reach Me On
 
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-lavkush2005kumar-blue?style=for-the-badge&logo=linkedin&logoColor=white)
 
 <div align="center">
 
-⭐️ Feel free to explore my repositories — feedback and suggestions are always welcome!
 
 </div>
